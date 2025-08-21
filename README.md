@@ -54,11 +54,11 @@ This GitHub profile is the **official space for Premkumar’s projects, contribu
 ## 📊 GitHub Stats (Premkumar’s Profile)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premkumar016555&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=premkumar016555&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsPremkumar&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsPremkumar&theme=radical" height="150" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumar016555&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsPremkumar&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ This GitHub profile is the **official space for Premkumar’s projects, contribu
 - 🌟 Open to **Internships & Junior Developer Roles** (Backend, Flutter, IoT, AI).  
 - 🚀 Excited for **Startup MVPs, APIs, Automation Projects**.  
 - 🌍 Available for **Open-Source Collaborations**.  
-- 💸 Support my work via [GitHub Sponsors](https://github.com/sponsors/premkumar016555).  
+- 💸 Support my work via [GitHub Sponsors](https://github.com/sponsors/itspremkumar).  
 
 📩 **Email Premkumar:** premkumar@sproutern.com  
 🔗 **LinkedIn Premkumar:** [Click Here](https://www.linkedin.com/in/premkumar-m-5a07ab272/n)  
@@ -75,4 +75,4 @@ This GitHub profile is the **official space for Premkumar’s projects, contribu
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/premkumar016555">Premkumar</a> | Backend, AI & Robotics Developer</p>
+<p align="center">⭐️ From <a href="https://github.com/itsPremkumar">Premkumar</a> | Backend, AI & Robotics Developer</p>

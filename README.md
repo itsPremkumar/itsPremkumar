@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Premkumar M</h1>
+![Banner](https://github.com/rutikakengal/rutikakengal/blob/main/Rutika%20Kengal%20(3).jpg?raw=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itspremkumar&label=Profile%20views&color=0e75b6&style=flat" alt="itspremkumar" /> </p>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">, I'm Premkumar M</h1>
 <h3 align="center">Backend & Mobile Developer | AI, Robotics & IoT Enthusiast | Open-Source Contributor</h3>
+<br/>
 
-<p align="center">
-  <a href="mailto:premkumar@sproutern.com"><img src="https://img.shields.io/badge/Email-Contact%20Premkumar-blue?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/premkumar-m-5a07ab272/n"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Premkumar-blue?style=flat&logo=linkedin"></a>
-  <a href="https://www.sproutern.com"><img src="https://img.shields.io/badge/🌐-Premkumar%20Portfolio-green?style=flat"></a>
-  <a href="https://github.com/sponsors/itspremkumar"><img src="https://img.shields.io/badge/GitHub-Sponsor%20Premkumar-yellow?style=flat&logo=github"></a>
-</p>
-
----
+<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 ## 🚀 About Me
 I’m **Premkumar (also known as Prem Kumar, MIT IT Graduate)**, a passionate developer focusing on:
@@ -19,6 +15,22 @@ I’m **Premkumar (also known as Prem Kumar, MIT IT Graduate)**, a passionate de
 - 🧠 **AI & ML Projects** (Python, Stable Diffusion, TensorFlow).  
 
 This GitHub profile is the **official space for Premkumar’s projects, contributions, and open-source work**.  
+
+## Connect with me 
+<div id="badges" align = "left">
+  <a href="mailto:premkumar@sproutern.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/premkumar-m-5a07ab272/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.sproutern.com">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://github.com/sponsors/itspremkumar">
+    <img src="https://img.shields.io/badge/GitHub-Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Badge"/>
+  </a>
+</div>
 
 ---
 
@@ -38,8 +50,7 @@ This GitHub profile is the **official space for Premkumar’s projects, contribu
 
 ---
 
-## 🧰 Tech Stack & Skills (Premkumar’s Expertise)
-
+## 🧰 Tech Stack & Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,flutter,dart,arduino,cpp,esp32,solidity,js,ts,nodejs,react,tailwind,git,githubactions,linux,mysql,postgres,redis,docker,vscode,figma,androidstudio&perline=10" />
 </p>
@@ -51,28 +62,29 @@ This GitHub profile is the **official space for Premkumar’s projects, contribu
 
 ---
 
-## 📊 GitHub Stats (Premkumar’s Profile)
+## 📊 Github Stats 
+<br/>
+<table width="100%" align="center">
+<tr>
+<td align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itspremkumar&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itspremkumar&theme=midnight-purple" alt="Streak Stats"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itspremkumar&theme=2077" alt="Profile Summary">
+</td>
+</tr>
+</table>
+<br/>
+
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Backend+,+Mobile+,+AI+,+and+Robotics...;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+effeciently..." alt="Typing SVG"/>
+    </h1>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsPremkumar&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsPremkumar&theme=radical" height="150" />
+  <b>Thank you for visiting my profile! Happy Coding!😊</b>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsPremkumar&layout=compact&theme=radical" height="150" />
-</p>
-
----
-
-## 🤝 Connect with Premkumar
-- 🌟 Open to **Internships & Junior Developer Roles** (Backend, Flutter, IoT, AI).  
-- 🚀 Excited for **Startup MVPs, APIs, Automation Projects**.  
-- 🌍 Available for **Open-Source Collaborations**.  
-- 💸 Support my work via [GitHub Sponsors](https://github.com/sponsors/itspremkumar).  
-
-📩 **Email Premkumar:** premkumar@sproutern.com  
-🔗 **LinkedIn Premkumar:** [Click Here](https://www.linkedin.com/in/premkumar-m-5a07ab272/n)  
-🌐 **Premkumar own company:** [sproutern.com](https://www.sproutern.com)  
-
----
-
-<p align="center">⭐️ From <a href="https://github.com/itsPremkumar">Premkumar</a> | Backend, AI & Robotics Developer</p>

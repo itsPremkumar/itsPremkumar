@@ -65,23 +65,23 @@ This GitHub profile is the **official space for Premkumar’s projects, contribu
 <br/>
 <table width="100%" align="center">
 <tr>
-<td align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itspremkumar&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itspremkumar&theme=midnight-purple" alt="Streak Stats"/>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=itspremkumar&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats"/>
+</td>
+<td align="center" width="50%">
+  <img src="https://streak-stats.demolab.com/?user=itspremkumar&theme=dracula" alt="Streak Stats"/>
 </td>
 </tr>
 <tr>
-<td align="center">
-  <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itspremkumar&theme=2077" alt="Profile Summary">
+<td align="center" colspan="2">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itspremkumar&theme=dracula" alt="Profile Summary">
 </td>
 </tr>
 </table>
 <br/>
 
 <div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Backend+,+Mobile+,+AI+,+and+Robotics...;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+effeciently..." alt="Typing SVG"/>
-    </h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Backend+,+Mobile+,+AI+,+and+Robotics...;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+effeciently...&static=true" alt="Typing SVG"/>
 </div>
 
 <p align="center">

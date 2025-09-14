@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.sproutern.com">
-    <img src="https://i.imgur.com/sYfEO4G.gif" alt="Header Banner" width="100%"/>
+   
   </a>
   <h1>Premkumar M</h1>
   <p><b>Backend & Mobile Developer | AI, Robotics & IoT Enthusiast | Open-Source Contributor</b></p>

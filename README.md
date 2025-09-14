@@ -1,120 +1,99 @@
+<div align="center">
+  <a href="https://www.sproutern.com">
+    <img src="https://i.imgur.com/o4q30yF.png" alt="Sproutern Logo" width="150"/>
+  </a>
+  <h1>Premkumar M</h1>
+  <p><b>Backend & Mobile Developer | AI, Robotics & IoT Enthusiast | Open-Source Contributor</b></p>
+  <p>
+    <a href="mailto:premkumar@sproutern.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/premkumar-m-5a07ab272/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.sproutern.com">
+      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    <a href="https://github.com/sponsors/itspremkumar">
+      <img src="https://img.shields.io/badge/GitHub-Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Badge"/>
+    </a>
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=itspremkumar&label=Profile%20views&color=0e75b6&style=flat" alt="itspremkumar" />
+  </p>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itspremkumar&label=Profile%20views&color=0e75b6&style=flat" alt="itspremkumar" /> </p>
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">, I'm Premkumar M</h1>
-<h3 align="center">Backend & Mobile Developer | AI, Robotics & IoT Enthusiast | Open-Source Contributor</h3>
-<br/>
-
+---
 
 ## 🚀 About Me
-I’m **Premkumar (Prem Kumar, MIT IT Graduate)**, a passionate developer with a focus on:
+
+I’m **Premkumar**, a passionate developer with a focus on turning innovative ideas into market-ready solutions. I specialize in:
 
 - 💻 **Backend Development:** Node.js, Express.js, APIs
 - 📱 **Mobile App Development:** Flutter & Dart
 - 🤖 **Robotics & IoT:** Arduino, ESP32, Embedded Systems
 - 🧠 **AI & ML:** Python, Stable Diffusion, TensorFlow
 
-This GitHub profile is the **official space for Premkumar’s projects, contributions, and open-source work**.  
-
----
-
-## 🌱 About Sproutern
-I am the founder of **[Sproutern](https://www.sproutern.com)**, my venture for turning innovative ideas into market-ready solutions. At Sproutern, we specialize in:
-
--   🚀 **Building MVPs for Startups**
--   🧩 **Developing Custom APIs & Backend Systems**
--   🤖 **Creating AI-Powered Tools & Automation Pipelines**
--   💡 **Designing and Prototyping IoT & Hardware Solutions**
-
-Sproutern is where my passion for technology meets business, delivering value to clients and partners.
-
----
-
-## 🔥 Featured Projects by Premkumar
-
-## Connect with me 
-<div id="badges" align = "left">
-  📩 **Contact for Projects:** premkumar@sproutern.com  
-🏢 **Business Inquiries:** [Sproutern](https://www.sproutern.com)  
-🔗 **LinkedIn:** [Connect with Premkumar](https://www.linkedin.com/in/premkumar-m-5a07ab272/n)
-## Connect with me 
-<div id="badges" align = "left">
-  <a href="mailto:premkumar@sproutern.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/premkumar-m-5a07ab272/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.sproutern.com">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://github.com/sponsors/itspremkumar">
-    <img src="https://img.shields.io/badge/GitHub-Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Badge"/>
-  </a>
-</div>
+I am the founder of **[Sproutern](https://www.sproutern.com)**, my venture for building MVPs, custom APIs, AI-powered tools, and IoT solutions.
 
 ---
 
 ## 🔥 Featured Projects
-- 🤖 **Ronbot – Humanoid Robot:** Arduino Mega + ESP32-CAM, IoT remote control, video streaming.
-- 🌾 **Farmers-to-Consumer Platform:** OTP-based login, farmer–buyer communication, driver tracking.
-- 📶 **Seamless Mobile IP Manager:** Java networking project for IP allocation.
-- 🎨 **AI/NFT Prompt Generator:** Python + Stable Diffusion pipelines for auto NFT art.
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Ronbot – Humanoid Robot</h3>
+      <p>An IoT-powered humanoid robot built with Arduino Mega and ESP32-CAM. Features remote control and real-time video streaming.</p>
+      <p><b>Technologies:</b> Arduino, ESP32, C++, IoT</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌾 Farmers-to-Consumer Platform</h3>
+      <p>A full-stack platform connecting farmers directly with consumers, featuring OTP-based login, real-time chat, and driver tracking.</p>
+      <p><b>Technologies:</b> Flutter, Node.js, Express.js, MongoDB</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 AI/NFT Prompt Generator</h3>
+      <p>An AI-powered tool that generates creative prompts for NFT art using Stable Diffusion pipelines.</p>
+      <p><b>Technologies:</b> Python, Stable Diffusion, TensorFlow</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📶 Seamless Mobile IP Manager</h3>
+      <p>A Java-based networking project for seamless IP allocation and management in mobile networks.</p>
+      <p><b>Technologies:</b> Java, Networking</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🏆 Achievements
-- 🥉 **3rd Place – Synergy’24 (AUSEC MIT):** Robotics & IoT innovation.
-- 💼 **CFO – IGNITE Program (Share & Wear):** AI-based fashion rental project.
-- 💻 **NFT Creator:** Sold NFTs generated by my AI pipeline on Rarible.
-- 🌟 **Open-Source Contributor:** Sponsored contributions on GitHub.
+
+- 🥉 **3rd Place – Synergy’24 (AUSEC MIT):** For innovation in Robotics & IoT.
+- 💼 **CFO – IGNITE Program (Share & Wear):** An AI-based fashion rental project.
+- 💻 **NFT Creator:** Successfully sold NFTs generated by my AI pipeline on Rarible.
+- 🌟 **Open-Source Contributor:** Sponsored for my contributions on GitHub.
 
 ---
 
 ## 🧰 Tech Stack & Skills
 
-**Languages:**
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,dart,js,ts,solidity,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,dart,js,ts,solidity,cpp,flutter,nodejs,express,react,tailwind,mongodb,postgres,mysql,redis,arduino,esp32,git,githubactions,linux,docker,vscode,figma,androidstudio" />
 </p>
-
-**Frameworks & Libraries:**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,nodejs,express,react,tailwind" />
-</p>
-
-**Databases:**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
-</p>
-
-**Tools & Platforms:**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,esp32,git,githubactions,linux,docker,vscode,figma,androidstudio" />
-</p>  
 
 ---
 
-## 📊 Github Stats 
-<br/>
-<table width="100%" align="center">
-<tr>
-<td align="center" width="50%">
+## 📊 GitHub Stats
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itspremkumar&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats"/>
-</td>
-<td align="center" width="50%">
   <img src="https://streak-stats.demolab.com/?user=itspremkumar&theme=dracula" alt="Streak Stats"/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
   <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itspremkumar&theme=dracula" alt="Profile Summary">
-</td>
-</tr>
-</table>
+</div>
+
 <br/>
 
 <div align="center">

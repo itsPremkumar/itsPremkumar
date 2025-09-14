@@ -4,7 +4,7 @@
 <h3 align="center">Backend & Mobile Developer | AI, Robotics & IoT Enthusiast | Open-Source Contributor</h3>
 <br/>
 
-<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/
 
 ## 🚀 About Me
 I’m **Premkumar (also known as Prem Kumar, MIT IT Graduate)**, a passionate developer focusing on:

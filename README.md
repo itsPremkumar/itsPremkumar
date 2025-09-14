@@ -1,4 +1,4 @@
-![Banner](https://github.com/rutikakengal/rutikakengal/blob/main/Rutika%20Kengal%20(3).jpg?raw=true)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itspremkumar&label=Profile%20views&color=0e75b6&style=flat" alt="itspremkumar" /> </p>
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">, I'm Premkumar M</h1>
 <h3 align="center">Backend & Mobile Developer | AI, Robotics & IoT Enthusiast | Open-Source Contributor</h3>

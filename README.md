@@ -1,6 +1,5 @@
 <div align="center">
   <a href="https://www.sproutern.com">
-    <img src="https://i.imgur.com/o4q30yF.png" alt="Sproutern Logo" width="150"/>
   </a>
   <h1>Premkumar M</h1>
   <p><b>Backend & Mobile Developer | AI, Robotics & IoT Enthusiast | Open-Source Contributor</b></p>

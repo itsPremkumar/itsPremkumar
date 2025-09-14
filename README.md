@@ -126,6 +126,18 @@ I am the founder of **[Sproutern](https://www.sproutern.com)**, my venture for b
   <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itspremkumar&theme=prussian" alt="Profile Summary">
 </div>
 
+<br>
+
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=itspremkumar&theme=prussian&no-frame=true&no-bg=true&margin-w=4" alt="itspremkumar" />
+</div>
+
+<div align="center">
+  <h3>⚡ GitHub Activity Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itspremkumar&bg_color=172a45&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="itspremkumar's contribution graph" />
+</div>
+
 <br/>
 
 <div align="center">

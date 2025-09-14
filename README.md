@@ -9,17 +9,17 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/premkumar-m-5a07ab272/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.sproutern.com">
-      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <a href="https://github.com/sponsors/itspremkumar">
-      <img src="https://img.shields.io/badge/GitHub-Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Badge"/>
+      <img src="https://img.shields.io/badge/GitHub-Sponsor-007BFF?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Badge"/>
     </a>
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=itspremkumar&label=Profile%20views&color=0e75b6&style=flat" alt="itspremkumar" />
+    <img src="https://komarev.com/ghpvc/?username=itspremkumar&label=Profile%20views&color=007BFF&style=flat" alt="itspremkumar" />
   </p>
 </div>
 
@@ -89,9 +89,9 @@ I am the founder of **[Sproutern](https://www.sproutern.com)**, my venture for b
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itspremkumar&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=itspremkumar&theme=dracula" alt="Streak Stats"/>
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itspremkumar&theme=dracula" alt="Profile Summary">
+  <img src="https://github-readme-stats.vercel.app/api?username=itspremkumar&show_icons=true&locale=en&theme=prussian" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=itspremkumar&theme=prussian" alt="Streak Stats"/>
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itspremkumar&theme=prussian" alt="Profile Summary">
 </div>
 
 <br/>

@@ -1,5 +1,6 @@
 <div align="center">
   <a href="https://www.sproutern.com">
+    <img src="https://i.imgur.com/sYfEO4G.gif" alt="Header Banner" width="100%"/>
   </a>
   <h1>Premkumar M</h1>
   <p><b>Backend & Mobile Developer | AI, Robotics & IoT Enthusiast | Open-Source Contributor</b></p>
@@ -34,6 +35,46 @@ I’m **Premkumar**, a passionate developer with a focus on turning innovative i
 - 🧠 **AI & ML:** Python, Stable Diffusion, TensorFlow
 
 I am the founder of **[Sproutern](https://www.sproutern.com)**, my venture for building MVPs, custom APIs, AI-powered tools, and IoT solutions.
+
+---
+
+## 🧰 Tech Stack & Skills
+
+<div align="center">
+  <h3>Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  </p>
+  <h3>Frameworks & Libraries</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  </p>
+  <h3>Databases</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  </p>
+  <h3>Tools & Platforms</h3>
+  <p>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  </p>
+</div>
 
 ---
 
@@ -77,42 +118,6 @@ I am the founder of **[Sproutern](https://www.sproutern.com)**, my venture for b
 
 ---
 
-## 🧰 Tech Stack & Skills
-
-### Languages
-- C
-- C++
-- CSS3
-- HTML5
-- JavaScript
-- Python
-- PHP
-
-### Frameworks
-- Django
-- Node.js
-- Tailwind CSS
-
-### Databases
-- MongoDB
-- SQL
-- MySQL
-- Oracle
-
-
-### Application and Tools
-- Visual Studio Code
-- Git
-- GitHub
-- Linux
-- Windows
-- Canva
-- Chrome
-- Microsoft Office
-- Postman
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -130,4 +135,3 @@ I am the founder of **[Sproutern](https://www.sproutern.com)**, my venture for b
 <p align="center">
   <b>Thank you for visiting my profile! Happy Coding!😊</b>
 </p>
-

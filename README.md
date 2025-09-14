@@ -13,8 +13,29 @@ I’m **Premkumar (Prem Kumar, MIT IT Graduate)**, a passionate developer with a
 - 🤖 **Robotics & IoT:** Arduino, ESP32, Embedded Systems
 - 🧠 **AI & ML:** Python, Stable Diffusion, TensorFlow
 
-This GitHub profile serves as the official space for my projects, contributions, and open-source work.
+This GitHub profile is the **official space for Premkumar’s projects, contributions, and open-source work**.  
 
+---
+
+## 🌱 About Sproutern
+I am the founder of **[Sproutern](https://www.sproutern.com)**, my venture for turning innovative ideas into market-ready solutions. At Sproutern, we specialize in:
+
+-   🚀 **Building MVPs for Startups**
+-   🧩 **Developing Custom APIs & Backend Systems**
+-   🤖 **Creating AI-Powered Tools & Automation Pipelines**
+-   💡 **Designing and Prototyping IoT & Hardware Solutions**
+
+Sproutern is where my passion for technology meets business, delivering value to clients and partners.
+
+---
+
+## 🔥 Featured Projects by Premkumar
+
+## Connect with me 
+<div id="badges" align = "left">
+  📩 **Contact for Projects:** premkumar@sproutern.com  
+🏢 **Business Inquiries:** [Sproutern](https://www.sproutern.com)  
+🔗 **LinkedIn:** [Connect with Premkumar](https://www.linkedin.com/in/premkumar-m-5a07ab272/n)
 ## Connect with me 
 <div id="badges" align = "left">
   <a href="mailto:premkumar@sproutern.com">

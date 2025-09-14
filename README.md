@@ -79,9 +79,37 @@ I am the founder of **[Sproutern](https://www.sproutern.com)**, my venture for b
 
 ## 🧰 Tech Stack & Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,dart,js,ts,solidity,cpp,flutter,nodejs,express,react,tailwind,mongodb,postgres,mysql,redis,arduino,esp32,git,githubactions,linux,docker,vscode,figma,androidstudio" />
-</p>
+### Languages
+- C
+- C++
+- CSS3
+- HTML5
+- JavaScript
+- Python
+- PHP
+
+### Frameworks
+- Django
+- Node.js
+- Tailwind CSS
+
+### Databases
+- MongoDB
+- SQL
+- MySQL
+- Oracle
+
+
+### Application and Tools
+- Visual Studio Code
+- Git
+- GitHub
+- Linux
+- Windows
+- Canva
+- Chrome
+- Microsoft Office
+- Postman
 
 ---
 

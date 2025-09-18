@@ -118,7 +118,7 @@ I am the founder of **[Sproutern](https://www.sproutern.com)**, my venture for b
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itspremkumar&show_icons=true&locale=en&theme=prussian" alt="GitHub Stats"/>
@@ -127,9 +127,25 @@ I am the founder of **[Sproutern](https://www.sproutern.com)**, my venture for b
 </div> -->
 <div align="center">
   <!-- Use your own deployed instance instead of the default -->
-  <img src="https://github-readme-stats-itspremkumar.vercel.app/api?username=itspremkumar&show_icons=true&locale=en&theme=prussian" alt="GitHub Stats"/>
+  <!-- <img src="https://github-readme-stats-itspremkumar.vercel.app/api?username=itspremkumar&show_icons=true&locale=en&theme=prussian" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=itspremkumar&theme=prussian" alt="Streak Stats"/>
   <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itspremkumar&theme=prussian" alt="Profile Summary"/>
+</div> -->
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-itspremkumar.vercel.app/api?username=itspremkumar&show_icons=true&theme=prussian" alt="GitHub Stats"/>
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=itspremkumar&theme=prussian" alt="GitHub Streak"/>
+
+  <!-- Profile Summary Card -->
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itspremkumar&theme=prussian" alt="Profile Summary"/>
+
 </div>
 
 <br>

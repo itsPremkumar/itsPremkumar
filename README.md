@@ -126,7 +126,7 @@ I am the founder of **[Sproutern](https://www.sproutern.com)**, my venture for b
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-itspremkumar.vercel.app/api?username=itspremkumar&show_icons=true&theme=prussian" alt="GitHub Stats"/>
+  <!-- <img src="https://github-readme-stats-itspremkumar.vercel.app/api?username=itspremkumar&show_icons=true&theme=prussian" alt="GitHub Stats"/> -->
 
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=itspremkumar&theme=prussian" alt="GitHub Streak"/>

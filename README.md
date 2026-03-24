@@ -112,7 +112,29 @@
 
 ---
 
-## 📊 GitHub Analytics
+## � Professional Experience & Ventures
+
+### 🚀 [Sproutern](https://www.sproutern.com) (Founder)
+*A venture dedicated to building innovative software solutions, MVPs, and customized AI tools.*
+- Designed and built seamless, scalable applications utilizing Cloud Infrastructure and IoT.
+- Helping businesses launch faster by rapidly prototyping Custom APIs, Flutter App interfaces, and AI integrations.
+
+### 🌟 Open Source Community Group (Mentor)
+*Guiding the next generation of passionate developers.*
+- Mentoring aspiring developers in coding best practices, system design, and successful community participation in Open Source environments.
+- Sharing hands-on experience covering Advanced Robotics (Arduino, ESP32) and AI Pipelines (Stable Diffusion).
+
+---
+
+## 💡 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=prussian" alt="Quote of the Day">
+</div>
+
+---
+
+## �📊 GitHub Analytics
 
 <div align="center">
 

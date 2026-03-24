@@ -26,6 +26,9 @@
   </p>
   <p>
     <img src="./oscg-mentor-premkumar-m.png" width="220" alt="OSCG Mentor Badge"/>
+    <br>
+    <b>🎖️ Open Source Connect Global (OSCG) 2026 Mentor</b><br>
+    <i>Empowering communities & innovators via NexFellow</i>
   </p>
 </div>
 
@@ -51,7 +54,7 @@
           <li>🥉 <b>3rd Place – Synergy'24 (AUSEC MIT):</b> Innovation in Robotics & IoT.</li>
           <li>💼 <b>CFO – IGNITE Program:</b> AI-based fashion rental project.</li>
           <li>💻 <b>NFT Creator:</b> Sold NFTs generated via custom Stable Diffusion pipelines.</li>
-          <li>🎓 <b>OSCG Mentor:</b> Mentoring developers in the Open Source Community Group.</li>
+          <li>🎓 <b>OSCG Mentor:</b> Official 2026 Mentor for Open Source Connect Global via NexFellow.</li>
           <li>🌟 <b>Open-Source Contributor:</b> Sponsored for GitHub contributions.</li>
         </ul>
       </div>
@@ -120,10 +123,11 @@
 - Curating real interview experiences and comprehensive study abroad guides for students internationally.
 - Committed to keeping high-quality career guidance and resources 100% free and accessible to everyone.
 
-### 🌟 Open Source Community Group (Mentor)
-*Guiding the next generation of passionate developers.*
-- Mentoring aspiring developers in coding best practices, system design, and successful community participation in Open Source environments.
-- Sharing hands-on experience covering Advanced Robotics (Arduino, ESP32) and AI Pipelines (Stable Diffusion).
+### 🌟 Open Source Connect Global (2026 Mentor via NexFellow)
+*Guiding the next generation of passionate developers globally.*
+- Officially selected as a Mentor for the OSCG 2026 cohort via the NexFellow platform.
+- Mentoring aspiring developers in coding best practices, system design, and open-source contributions.
+- Sharing hands-on experience covering Advanced Robotics (Arduino, ESP32) and AI Pipelines.
 
 ---
 

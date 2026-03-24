@@ -36,8 +36,8 @@
     <td align="center" width="50%" valign="top">
       <h2>🚀 About Me</h2>
       <div align="left">
-        I'm a passionate developer focusing on turning innovative ideas into market-ready solutions. I am the founder of <b><a href="https://www.sproutern.com">Sproutern</a></b>, a venture for building MVPs, custom APIs, AI tools, and IoT solutions.<br><br>
-        🔭 <b>Currently working on:</b> Advanced MVPs at Sproutern<br>
+        I'm a passionate developer focusing on turning innovative ideas into market-ready solutions. I am the founder of <b><a href="https://www.sproutern.com">Sproutern</a></b>, a comprehensive platform offering 30+ free career tools, interview prep, and study abroad guides.<br><br>
+        🔭 <b>Currently working on:</b> Scaling Sproutern's free resources globally<br>
         🌱 <b>Currently learning:</b> Next-Gen AI Integration & Web3<br>
         👯 <b>Looking to collaborate on:</b> Open Source & IoT Systems<br>
         💬 <b>Ask me about:</b> Node.js, Flutter, Robotics, AI Prompts<br>
@@ -114,10 +114,11 @@
 
 ## � Professional Experience & Ventures
 
-### 🚀 [Sproutern](https://www.sproutern.com) (Founder)
-*A venture dedicated to building innovative software solutions, MVPs, and customized AI tools.*
-- Designed and built seamless, scalable applications utilizing Cloud Infrastructure and IoT.
-- Helping businesses launch faster by rapidly prototyping Custom APIs, Flutter App interfaces, and AI integrations.
+### 🚀 [Sproutern](https://www.sproutern.com) (Founder & Creator)
+*A platform democratizing career guidance with free tools, interview prep, and study abroad resources.*
+- Built and scaled a platform providing over 30+ free career tools, including CGPA converters, resume score checkers, and salary calculators.
+- Curating real interview experiences and comprehensive study abroad guides for students internationally.
+- Committed to keeping high-quality career guidance and resources 100% free and accessible to everyone.
 
 ### 🌟 Open Source Community Group (Mentor)
 *Guiding the next generation of passionate developers.*

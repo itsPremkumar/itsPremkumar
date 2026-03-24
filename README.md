@@ -136,7 +136,7 @@
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=itspremkumar&theme=prussian&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="itspremkumar" />
+    <img src="https://github-profile-trophy.vercel.app/?username=itspremkumar&theme=prussian&margin-w=4" alt="itspremkumar" />
   </a>
 </div>
 

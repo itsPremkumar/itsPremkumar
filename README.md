@@ -84,6 +84,42 @@
 
 ---
 
+## 🌟 Latest Open Source Gems
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎬 <a href="https://github.com/itsPremkumar/Automated-Video-Generator">Automated Video Generator</a></h3>
+      <p>Turn text into frame-perfect videos with AI & Remotion. Features 400+ voices, stock media APIs, and a local web portal.</p>
+      <code>TypeScript</code> <code>Remotion</code> <code>AI</code> <code>Node.js</code>
+      <br><br>
+      <a href="https://github.com/itsPremkumar/Automated-Video-Generator">
+        <img src="https://img.shields.io/badge/Star_This_Repo-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star Badge"/>
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔒 <a href="https://github.com/itsPremkumar/Amnos">Amnos – Privacy Browser</a></h3>
+      <p>A hardened Android browser designed for local-only sessions with zero footprint, tracker blocking, and WebRTC shutdown.</p>
+      <code>Kotlin</code> <code>Android</code> <code>Privacy</code> <code>Security</code>
+      <br><br>
+      <a href="https://github.com/itsPremkumar/Amnos">
+        <img src="https://img.shields.io/badge/Star_This_Repo-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star Badge"/>
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔑 <a href="https://github.com/itsPremkumar/multilayer-encryption-framework">Multilayer Encryption</a></h3>
+      <p>A high-performance cryptographic pipeline combining AES-256-GCM with advanced key stretching and obfuscation.</p>
+      <code>TypeScript</code> <code>Cryptography</code> <code>Security</code>
+      <br><br>
+      <a href="https://github.com/itsPremkumar/multilayer-encryption-framework">
+        <img src="https://img.shields.io/badge/Star_This_Repo-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star Badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🔥 Featured Projects
 
 <table align="center" width="100%">

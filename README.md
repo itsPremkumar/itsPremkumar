@@ -46,7 +46,7 @@
       <div align="left">
         <ul>
           <li>🥉 <b>3rd Place – Synergy'24 (AUSEC MIT):</b> Innovation in Robotics & IoT.</li>
-          <li>💼 <b>CFO – IGNITE Program:</b> AI-based fashion rental project.</li>
+        
           <li>💻 <b>NFT Creator:</b> Sold NFTs generated via custom Stable Diffusion pipelines.</li>
           <li>🎓 <b>OSCG Mentor:</b> Official 2026 Mentor for Open Source Connect Global via NexFellow.</li>
           <li>🌟 <b>Open-Source Contributor:</b> Sponsored for GitHub contributions.</li>

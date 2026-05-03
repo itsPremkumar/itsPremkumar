@@ -8,15 +8,10 @@
 <div align="center">
   <h3>Connect with me:</h3>
   <p>
-    <a href="mailto:premkumar@sproutern.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
     <a href="https://www.linkedin.com/in/premkumar-m-5a07ab272/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.sproutern.com">
-      <img src="https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
-    </a>
+
     <a href="https://github.com/sponsors/itspremkumar">
       <img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Badge"/>
     </a>
@@ -39,12 +34,11 @@
     <td align="center" width="50%" valign="top">
       <h2>🚀 About Me</h2>
       <div align="left">
-        I'm a passionate developer focusing on turning innovative ideas into market-ready solutions. I am the founder of <b><a href="https://www.sproutern.com">Sproutern</a></b>, a comprehensive platform offering 30+ free career tools, interview prep, and study abroad guides.<br><br>
-        🔭 <b>Currently working on:</b> Scaling Sproutern's free resources globally<br>
+        I'm a passionate developer focusing on turning innovative ideas into market-ready solutions.<br><br>
+        🔭 <b>Currently working on:</b> Scaling innovative web solutions globally<br>
         🌱 <b>Currently learning:</b> Next-Gen AI Integration & Web3<br>
         👯 <b>Looking to collaborate on:</b> Open Source & IoT Systems<br>
-        💬 <b>Ask me about:</b> Node.js, Flutter, Robotics, AI Prompts<br>
-        📫 <b>How to reach me:</b> <a href="mailto:premkumar@sproutern.com">premkumar@sproutern.com</a>
+        💬 <b>Ask me about:</b> Node.js, Flutter, Robotics, AI Prompts
       </div>
     </td>
     <td align="center" width="50%" valign="top">
@@ -152,12 +146,6 @@
 ---
 
 ## � Professional Experience & Ventures
-
-### 🚀 [Sproutern](https://www.sproutern.com) (Founder & Creator)
-*A platform democratizing career guidance with free tools, interview prep, and study abroad resources.*
-- Built and scaled a platform providing over 30+ free career tools, including CGPA converters, resume score checkers, and salary calculators.
-- Curating real interview experiences and comprehensive study abroad guides for students internationally.
-- Committed to keeping high-quality career guidance and resources 100% free and accessible to everyone.
 
 ### 🌟 Open Source Connect Global (2026 Mentor via NexFellow)
 *Guiding the next generation of passionate developers globally.*

@@ -6,54 +6,52 @@
 </div>
 
 <div align="center">
-  <h3>Connect with me:</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/premkumar-m-5a07ab272/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-
-    <a href="https://github.com/sponsors/itspremkumar">
-      <img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Badge"/>
-    </a>
-  </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=itspremkumar&label=Profile%20Views&color=007BFF&style=flat-square" alt="itspremkumar" />
-  </p>
-  <p>
-    <img src="./oscg-mentor-premkumar-m.png" width="220" alt="OSCG Mentor Badge"/>
-    <br>
-    <b>🎖️ Open Source Connect Global (OSCG) 2026 Mentor</b><br>
-    <i>Empowering communities & innovators via NexFellow</i>
-  </p>
+<h3>Connect with me:</h3>
+<p>
+<a href="https://www.linkedin.com/in/premkumar-m-5a07ab272/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://github.com/sponsors/itspremkumar">
+<img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Badge"/>
+</a>
+</p>
+<p>
+<img src="https://komarev.com/ghpvc/?username=itspremkumar&label=Profile%20Views&color=007BFF&style=flat-square" alt="itspremkumar" />
+</p>
+<p>
+<img src="./oscg-mentor-premkumar-m.png" width="220" alt="OSCG Mentor Badge"/>
+<br>
+<b>🎖️ Open Source Connect Global (OSCG) 2026 Mentor</b><br>
+<i>Empowering communities & innovators via NexFellow</i>
+</p>
 </div>
 
 ---
 
 <table align="center" width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h2>🚀 About Me</h2>
-      <div align="left">
-        I'm a passionate developer focusing on turning innovative ideas into market-ready solutions.<br><br>
-        🔭 <b>Currently working on:</b> Scaling innovative web solutions globally<br>
-        🌱 <b>Currently learning:</b> Next-Gen AI Integration & Web3<br>
-        👯 <b>Looking to collaborate on:</b> Open Source & IoT Systems<br>
-        💬 <b>Ask me about:</b> Node.js, Flutter, Robotics, AI Prompts
-      </div>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h2>🏆 Achievements</h2>
-      <div align="left">
-        <ul>
-          <li>🥉 <b>3rd Place – Synergy'24 (AUSEC MIT):</b> Innovation in Robotics & IoT.</li>
-        
-          <li>💻 <b>NFT Creator:</b> Sold NFTs generated via custom Stable Diffusion pipelines.</li>
-          <li>🎓 <b>OSCG Mentor:</b> Official 2026 Mentor for Open Source Connect Global via NexFellow.</li>
-          <li>🌟 <b>Open-Source Contributor:</b> Sponsored for GitHub contributions.</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="50%" valign="top">
+<h2>🚀 About Me</h2>
+<div align="left">
+I'm a passionate developer focusing on turning innovative ideas into market-ready solutions.<br><br>
+🔭 <b>Currently working on:</b> Scaling innovative web solutions globally<br>
+🌱 <b>Currently learning:</b> Next-Gen AI Integration & Web3<br>
+👯 <b>Looking to collaborate on:</b> Open Source & IoT Systems<br>
+💬 <b>Ask me about:</b> Node.js, Flutter, Robotics, AI Prompts
+</div>
+</td>
+<td align="center" width="50%" valign="top">
+<h2>🏆 Achievements</h2>
+<div align="left">
+<ul>
+<li>🥉 <b>3rd Place – Synergy'24 (AUSEC MIT):</b> Innovation in Robotics & IoT.</li>
+<li>💻 <b>NFT Creator:</b> Sold NFTs generated via custom Stable Diffusion pipelines.</li>
+<li>🎓 <b>OSCG Mentor:</b> Official 2026 Mentor for Open Source Connect Global via NexFellow.</li>
+<li>🌟 <b>Open-Source Contributor:</b> Sponsored for GitHub contributions.</li>
+</ul>
+</div>
+</td>
+</tr>
 </table>
 
 ---
@@ -81,35 +79,35 @@
 ## 🌟 Latest Open Source Gems
 
 <table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🎬 <a href="https://github.com/itsPremkumar/Automated-Video-Generator">Automated Video Generator</a></h3>
-      <p>Turn text into frame-perfect videos with AI & Remotion. Features 400+ voices, stock media APIs, and a local web portal.</p>
-      <code>TypeScript</code> <code>Remotion</code> <code>AI</code> <code>Node.js</code>
-      <br><br>
-      <a href="https://github.com/itsPremkumar/Automated-Video-Generator">
-        <img src="https://img.shields.io/badge/Star_This_Repo-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star Badge"/>
-      </a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🔒 <a href="https://github.com/itsPremkumar/Amnos">Amnos – Privacy Browser</a></h3>
-      <p>A hardened Android browser designed for local-only sessions with zero footprint, tracker blocking, and WebRTC shutdown.</p>
-      <code>Kotlin</code> <code>Android</code> <code>Privacy</code> <code>Security</code>
-      <br><br>
-      <a href="https://github.com/itsPremkumar/Amnos">
-        <img src="https://img.shields.io/badge/Star_This_Repo-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star Badge"/>
-      </a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🔑 <a href="https://github.com/itsPremkumar/multilayer-encryption-framework">Multilayer Encryption</a></h3>
-      <p>A high-performance cryptographic pipeline combining AES-256-GCM with advanced key stretching and obfuscation.</p>
-      <code>TypeScript</code> <code>Cryptography</code> <code>Security</code>
-      <br><br>
-      <a href="https://github.com/itsPremkumar/multilayer-encryption-framework">
-        <img src="https://img.shields.io/badge/Star_This_Repo-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star Badge"/>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+<h3>🎬 <a href="https://github.com/itsPremkumar/Automated-Video-Generator">Automated Video Generator</a></h3>
+<p>Turn text into frame-perfect videos with AI & Remotion. Features 400+ voices, stock media APIs, and a local web portal.</p>
+<code>TypeScript</code> <code>Remotion</code> <code>AI</code> <code>Node.js</code>
+<br><br>
+<a href="https://github.com/itsPremkumar/Automated-Video-Generator">
+<img src="https://img.shields.io/badge/Star_This_Repo-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star Badge"/>
+</a>
+</td>
+<td width="33%" valign="top">
+<h3>🔒 <a href="https://github.com/itsPremkumar/Amnos">Amnos – Privacy Browser</a></h3>
+<p>A hardened Android browser designed for local-only sessions with zero footprint, tracker blocking, and WebRTC shutdown.</p>
+<code>Kotlin</code> <code>Android</code> <code>Privacy</code> <code>Security</code>
+<br><br>
+<a href="https://github.com/itsPremkumar/Amnos">
+<img src="https://img.shields.io/badge/Star_This_Repo-FFD700?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Star Badge"/>
+</a>
+</td>
+<td width="33%" valign="top">
+<h3>🔑 <a href="https://github.com/itsPremkumar/multilayer-encryption-framework">Multilayer Encryption</a></h3>
+<p>A high-performance cryptographic pipeline combining AES-256-GCM with advanced key stretching and obfuscation.</p>
+<code>TypeScript</code> <code>Cryptography</code> <code>Security</code>
+<br><br>
+<a href="https://github.com/itsPremkumar/multilayer-encryption-framework">
+<img src="https://img.shields.io/badge/Star_This_Repo-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star Badge"/>
+</a>
+</td>
+</tr>
 </table>
 
 ---
@@ -117,35 +115,35 @@
 ## 🔥 Featured Projects
 
 <table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/itspremkumar">Ronbot – Humanoid Robot</a></h3>
-      <p>An IoT-powered humanoid robot built with Arduino Mega and ESP32-CAM. Features remote control and real-time video streaming.</p>
-      <code>Arduino</code> <code>ESP32</code> <code>C++</code> <code>IoT</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌾 <a href="https://github.com/itspremkumar">Farmers-to-Consumer Platform</a></h3>
-      <p>A full-stack platform connecting farmers directly with consumers, featuring OTP-based login, real-time chat, and driver tracking.</p>
-      <code>Flutter</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/itspremkumar">AI/NFT Prompt Generator</a></h3>
-      <p>An AI-powered tool that generates creative prompts for NFT art using highly optimized Stable Diffusion pipelines.</p>
-      <code>Python</code> <code>Stable Diffusion</code> <code>AI/ML</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📶 <a href="https://github.com/itspremkumar">Seamless Mobile IP Manager</a></h3>
-      <p>A Java-based networking project architecture for seamless IP allocation and management in moving mobile networks.</p>
-      <code>Java</code> <code>Sockets</code> <code>Networking</code>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🤖 <a href="https://github.com/itspremkumar">Ronbot – Humanoid Robot</a></h3>
+<p>An IoT-powered humanoid robot built with Arduino Mega and ESP32-CAM. Features remote control and real-time video streaming.</p>
+<code>Arduino</code> <code>ESP32</code> <code>C++</code> <code>IoT</code>
+</td>
+<td width="50%" valign="top">
+<h3>🌾 <a href="https://github.com/itspremkumar">Farmers-to-Consumer Platform</a></h3>
+<p>A full-stack platform connecting farmers directly with consumers, featuring OTP-based login, real-time chat, and driver tracking.</p>
+<code>Flutter</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎨 <a href="https://github.com/itspremkumar">AI/NFT Prompt Generator</a></h3>
+<p>An AI-powered tool that generates creative prompts for NFT art using highly optimized Stable Diffusion pipelines.</p>
+<code>Python</code> <code>Stable Diffusion</code> <code>AI/ML</code>
+</td>
+<td width="50%" valign="top">
+<h3>📶 <a href="https://github.com/itspremkumar">Seamless Mobile IP Manager</a></h3>
+<p>A Java-based networking project architecture for seamless IP allocation and management in moving mobile networks.</p>
+<code>Java</code> <code>Sockets</code> <code>Networking</code>
+</td>
+</tr>
 </table>
 
 ---
 
-## � Professional Experience & Ventures
+## 💼 Professional Experience & Ventures
 
 ### 🌟 Open Source Connect Global (2026 Mentor via NexFellow)
 *Guiding the next generation of passionate developers globally.*
@@ -163,7 +161,7 @@
 
 ---
 
-## �📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 

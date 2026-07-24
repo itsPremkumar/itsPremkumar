@@ -37,6 +37,7 @@ I'm a **2025 B.Tech Information Technology graduate** who builds production-grad
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | [**Automated-Video-Generator**](https://github.com/itsPremkumar/Automated-Video-Generator) ⭐ 21 | Text-to-video pipeline: 400+ voices, stock-media APIs, Remotion rendering, Electron app + web portal, MCP server. | TypeScript · Remotion · Node.js |
+| [**sproutern-open-source**](https://github.com/itsPremkumar/sproutern-open-source) ⭐ 3 | AI-powered career platform for students & freshers — 200+ tools, 180+ games, AI resume builder, and career roadmaps. Free & open-source. | TypeScript · Next.js |
 | [**Optimus_Prime**](https://github.com/itsPremkumar/Optimus_Prime) ⭐ 5 | AI automation toolkit with modular `src/` architecture and full CI. | Python · ML |
 | [**Amnos – Privacy Browser**](https://github.com/itsPremkumar/Amnos) | Hardened Android browser: tracker blocking, WebRTC shutdown, zero-footprint local sessions. | Kotlin · Android · Security |
 | [**Multilayer Encryption Framework**](https://github.com/itsPremkumar/multilayer-encryption-framework) | High-performance crypto pipeline (AES-256-GCM + key stretching). | TypeScript · Cryptography |

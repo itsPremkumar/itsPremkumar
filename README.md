@@ -9,6 +9,13 @@
 [![Email](https://img.shields.io/badge/Email-premkumar016555@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premkumar016555@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Chennai,%20India-00599C?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/search/Chennai)
 
+[![Stars](https://img.shields.io/github/stars/itsPremkumar?style=for-the-badge&logo=github&color=gold)](https://github.com/itsPremkumar?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/public%20repos-183-0A66C2?style=for-the-badge&logo=github)](https://github.com/itsPremkumar?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/itsPremkumar?style=for-the-badge&logo=github&color=blue)](https://github.com/itsPremkumar)
+[![PRs Merged](https://img.shields.io/badge/PRs%20merged-12-success?style=for-the-badge&logo=github)](https://github.com/itsPremkumar/Automated-Video-Generator/pulls?q=is%3Amerged)
+[![Top Language](https://img.shields.io/github/languages/top/itsPremkumar/Automated-Video-Generator?style=for-the-badge)](https://github.com/itsPremkumar/Automated-Video-Generator)
+[![Visitors](https://visitor-badge.laowi.com/badge?page_id=itsPremkumar.itsPremkumar)](https://github.com/itsPremkumar)
+
 **🟢 Open to work** — AI/ML Engineer, LLM Engineer, and Backend / Full-Stack Software Engineer roles (India · Remote).
 
 </div>
@@ -30,7 +37,7 @@ I'm a **2025 B.Tech Information Technology graduate** who builds production-grad
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| [**Automated-Video-Generator**](https://github.com/itsPremkumar/Automated-Video-Generator) ⭐ 20 | Text-to-video pipeline: 400+ voices, stock-media APIs, Remotion rendering, Electron app + web portal, MCP server. | TypeScript · Remotion · Node.js |
+| [**Automated-Video-Generator**](https://github.com/itsPremkumar/Automated-Video-Generator) ⭐ 21 | Text-to-video pipeline: 400+ voices, stock-media APIs, Remotion rendering, Electron app + web portal, MCP server. | TypeScript · Remotion · Node.js |
 | [**Optimus_Prime**](https://github.com/itsPremkumar/Optimus_Prime) ⭐ 5 | AI automation toolkit with modular `src/` architecture and full CI. | Python · ML |
 | [**Amnos – Privacy Browser**](https://github.com/itsPremkumar/Amnos) | Hardened Android browser: tracker blocking, WebRTC shutdown, zero-footprint local sessions. | Kotlin · Android · Security |
 | [**Multilayer Encryption Framework**](https://github.com/itsPremkumar/multilayer-encryption-framework) | High-performance crypto pipeline (AES-256-GCM + key stretching). | TypeScript · Cryptography |
@@ -54,7 +61,7 @@ I'm a **2025 B.Tech Information Technology graduate** who builds production-grad
 - 🎓 **OSCG 2026 Mentor** — Open Source Connect Global (via NexFellow).
 - 🥉 **3rd Place, Synergy'24 (AUSEC MIT)** — Innovation in Robotics & IoT.
 - 💻 **NFT Creator** — Sold AI-generated art via custom Stable Diffusion pipelines.
-- 🌟 **Sponsored Open-Source Contributor** — recognized for GitHub contributions.
+- 🌟 **Active Open-Source Contributor** — building tools used across projects and mentoring the next cohort.
 
 ---
 

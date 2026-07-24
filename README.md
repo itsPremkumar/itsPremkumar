@@ -14,7 +14,6 @@
 [![Followers](https://img.shields.io/github/followers/itsPremkumar?style=for-the-badge&logo=github&color=blue)](https://github.com/itsPremkumar)
 [![PRs Merged](https://img.shields.io/badge/PRs%20merged-12-success?style=for-the-badge&logo=github)](https://github.com/itsPremkumar/Automated-Video-Generator/pulls?q=is%3Amerged)
 [![Top Language](https://img.shields.io/github/languages/top/itsPremkumar/Automated-Video-Generator?style=for-the-badge)](https://github.com/itsPremkumar/Automated-Video-Generator)
-[![Visitors](https://visitor-badge.laowi.com/badge?page_id=itsPremkumar.itsPremkumar)](https://github.com/itsPremkumar)
 
 **🟢 Open to work** — AI/ML Engineer, LLM Engineer, and Backend / Full-Stack Software Engineer roles (India · Remote).
 
